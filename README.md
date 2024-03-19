@@ -1,7 +1,7 @@
 # SimpleChatProgram (간단한 채팅 프로그램)
 
 <p align="center">
-  <img src="./screenshot.png" width="400"">
+  <img src="./screenshot.png">
 </p>
 
 
@@ -19,5 +19,5 @@
 **ChatProgram**, 즉 서버 프로그램의 다이어그램이다. 클라이언트 코드도 이와 비슷한 구조를 갖추고 있으므로, 이 다이어그램을 보면 클라이언트도 이해하기 쉽다.
 
 <p align="center">
-  <img src="./diagram.png" width="400"">
+  <img src="./diagram.png">
 </p>
